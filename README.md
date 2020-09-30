@@ -2,6 +2,10 @@
 
 Define a function that takes a list of numbers as a parameter and returns a dictionary in the form {'ODD': x, 'EVEN': y}
 where x and y represent the number of odd and even numbers in the sequence respectively.
+if n%2==0:
+print(even)
+else:
+print(odd)
 
 _Example:_
 
